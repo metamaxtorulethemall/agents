@@ -31,9 +31,9 @@ mit Fokus auf **Microsoft-Integration (Power Platform, Copilot)** und **Gamifica
 
 ## 🔗 Links
 
-- [Website](https://deine-website.ch)
-- [LinkedIn](https://linkedin.com/in/deinprofil)
-- [Kontakt](mailto:deine@email.ch)
+- [Website](https://www.steponthebridge.ch)
+- [LinkedIn](https://www.linkedin.com/in/achimimboden/)
+- [Kontakt](https://www.steponthebridge.ch))
 
 ---
-**© 2023 Miro Steibruchmätteli | Alle Agenten unter [MIT-Lizenz](./LICENSE).**
+**© 2023 Achim Imboden | Alle Agenten unter [MIT-Lizenz](./LICENSE).**
