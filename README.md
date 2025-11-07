@@ -8,7 +8,7 @@ mit Fokus auf **Microsoft-Integration (Power Platform, Copilot)** und **Gamifica
 
 | Agent               | Beschreibung                                                                 | Status          |
 |----------------------|-----------------------------------------------------------------------------|-----------------|
-| [Voice2Task](./voice2task/) | **Sprach-To-Do-Agent**: Diktierte Aufgaben → strukturierte Exporte (Notion, Outlook). | 🟢 Produktiv     |
+| |
 | [Cosmo Contact](./cosmo-contact/) | **Networking-Agent**: Kontakte + Synergien + Follow-ups.                  | 🟢 Produktiv     |
 | [BPMN-Tutorat](./bpmn-tutorat/) | **Lern-Agent**: BPMN-Grundlagen in 3 Levels (Pizza-Beispiel → Agenten-Code). | 🟡 Beta         |
 | [Klara erklärt's](./klara-erklaerts/) | **Tech-Erklär-Agent**: Komplexe Technik wie für Fünfjährige erklären.     | 🟢 Produktiv     |
